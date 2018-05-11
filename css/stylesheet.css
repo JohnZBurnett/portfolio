@@ -6,4 +6,23 @@
 
 a {
   text-decoration: none;
+  color: #Fab47b;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+header {
+  background: #3ab47b;
+  border-color: #599a23;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+nav a, nav a:visited {
+  color: #fff;
 }
